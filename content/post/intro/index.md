@@ -3,7 +3,7 @@ title: 우리는 아쿠아크루입니다
 description: 아쿠아크루에 오신 것을 환영합니다!
 slug: about
 date: 2023-12-01 00:00:00+0000
-image: cover.jpg
+image: cover.png
 categories:
     - About AquaCrew
 tags:
