@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: About Aqua Crew
+description: 아쿠아크루를 소개합니다. 
 image:
 
 # Badge style
