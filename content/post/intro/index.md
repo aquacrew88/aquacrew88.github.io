@@ -1,17 +1,17 @@
 ---
-title: 아쿠아크루 소개
-description: 아쿠아크루 수영 동호회에 오신 것을 환영합니다!
+title: 우리는 아쿠아크루입니다
+description: 아쿠아크루에 오신 것을 환영합니다!
 slug: about
 date: 2023-12-01 00:00:00+0000
 image: cover.jpg
 categories:
-    - About Aqua Crew
+    - About AquaCrew
 tags:
     - AquaCrew
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-안녕하세요, 아쿠아크루 수영 동호회를 방문해 주셔서 감사합니다. 저희 아쿠아크루는 서울시 강서구에 위치한 [KBS 스포츠월드](https://kbsbiz.co.kr/%ec%8a%a4%ed%8f%ac%ec%b8%a0%ec%9b%94%eb%93%9c/%ec%88%98%ea%b0%95%ec%95%88%eb%82%b41/)를 중심으로 시작한 수영 동호회입니다. 20대부터 60대까지 다양한 연령대의 회원들이 함께 수영을 즐기며 건강을 증진하고, 친목을 도모하는 활기찬 커뮤니티입니다.
+안녕하세요, 아쿠아크루를 방문해 주셔서 감사합니다. 저희 아쿠아크루는 서울시 강서구에 위치한 [KBS 스포츠월드](https://kbsbiz.co.kr/%ec%8a%a4%ed%8f%ac%ec%b8%a0%ec%9b%94%eb%93%9c/%ec%88%98%ea%b0%95%ec%95%88%eb%82%b41/)를 중심으로 시작한 수영 동호회입니다. 20대부터 60대까지 다양한 연령대의 회원들이 함께 수영을 즐기며 건강을 증진하고, 친목을 도모하는 활기찬 커뮤니티입니다.
 
 아쿠아크루의 주요 목적은 다음과 같습니다:
 
