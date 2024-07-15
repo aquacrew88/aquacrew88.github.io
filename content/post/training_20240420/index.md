@@ -1,7 +1,7 @@
 ---
 title: 20240420 정기 훈련
 date: 2024-04-20
-description: 마곡 M밸리레포츠
+description: KBS스포츠월드
 image: 59093139572.jpg
 tags:
     - 
