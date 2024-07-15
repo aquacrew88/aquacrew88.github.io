@@ -5,9 +5,9 @@ slug: about
 date: 2023-12-01 00:00:00+0000
 image: cover.png
 categories:
-    - About AquaCrew
-tags:
     - AquaCrew
+tags:
+    - 
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 

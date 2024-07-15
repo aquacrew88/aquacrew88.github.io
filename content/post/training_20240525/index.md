@@ -4,7 +4,7 @@ date: 2024-05-25
 description: KBS스포츠월드
 image: 59966544815.jpg
 tags:
-    - KBS
+    - 
 categories:
     - 정기훈련
 ---

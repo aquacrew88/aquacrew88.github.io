@@ -1,5 +1,5 @@
 ---
-title: About AquaCrew
+title: AquaCrew
 description: 아쿠아크루를 소개합니다. 
 image:
 

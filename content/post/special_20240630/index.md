@@ -4,8 +4,6 @@ date: 2024-06-30
 description: 최원석샘 교정 특강 @KBS스포츠월드
 image: 60886024133.jpg
 tags:
-    - 최원석
-    - KBS
     - 교정
 categories:
     - 특별강습

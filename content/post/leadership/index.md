@@ -5,9 +5,9 @@ slug: leadership
 date: 2023-12-02 00:00:00+0000
 image: 96624513.2.jpg
 categories:
-    - About AquaCrew
-tags:
     - AquaCrew
+tags:
+    - 
 weight: 2       # You can add weight to some posts to override the default sorting (date descending)
 ---
 

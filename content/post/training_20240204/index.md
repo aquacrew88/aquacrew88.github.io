@@ -4,7 +4,6 @@ date: 2024-02-04
 description: KBS스포츠월드
 image: 57297167612.jpg
 tags:
-    - KBS
     - 핀추발
 categories:
     - 정기훈련

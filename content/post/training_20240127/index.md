@@ -4,7 +4,7 @@ date: 2024-01-27
 description: KBS스포츠월드
 image: g8z5k4.jpg
 tags:
-    - KBS
+    - 
     - 핀추발
 categories:
     - 정기훈련

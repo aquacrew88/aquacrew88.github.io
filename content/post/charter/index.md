@@ -5,9 +5,9 @@ slug: charter
 date: 2023-12-03 00:00:00+0000
 image: stock.jpg
 categories:
-    - About AquaCrew
-tags:
     - AquaCrew
+tags:
+    - 
 weight: 3       # You can add weight to some posts to override the default sorting (date descending)
 ---
 

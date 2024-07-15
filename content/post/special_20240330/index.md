@@ -4,8 +4,6 @@ date: 2024-03-30
 description: 아크샘 배영 특강 @KBS스포츠월드
 image: 
 tags:
-    - 아크샘
-    - KBS
     - 배영
 categories:
     - 특별강습

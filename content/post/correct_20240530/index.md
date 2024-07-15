@@ -5,7 +5,6 @@ description: 자세 교정반 1기 모집
 image: correct.png
 tags:
     - 교정
-    - 최원석
 categories:
     - 교정반
 ---

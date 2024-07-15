@@ -1,10 +1,10 @@
 ---
 title: 20240504 정기 훈련
 date: 2024-05-04
-description: KBS
+description: KBS스포츠월드
 image: 59445456042.jpg
 tags:
-    - KBS
+    - 
 categories:
     - 정기훈련
 ---

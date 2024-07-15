@@ -4,8 +4,6 @@ date: 2024-03-01
 description: 배영 with 아크샘 @ 경서스포츠센터
 image: 57882014301.jpg
 tags:
-    - 아크샘
-    - 경서
     - 배영
 categories:
     - 특별강습
