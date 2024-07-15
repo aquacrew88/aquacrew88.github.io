@@ -1,7 +1,7 @@
 ---
-title: 20240330 특별 강습
+title: 아크샘 배영 특강
 date: 2024-03-30
-description: 아크샘 배영 특강 @KBS스포츠월드
+description: KBS스포츠월드
 image: 58587400097.jpg
 tags:
     - 배영

@@ -1,7 +1,7 @@
 ---
-title: 20240427 특별 강습
+title: 아크샘 접영 특강
 date: 2024-04-27
-description: 아크샘 접영 특강 @KBS스포츠월드
+description: KBS스포츠월드
 image: 59277080615.jpg
 tags:
     - 접영

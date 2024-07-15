@@ -1,7 +1,7 @@
 ---
-title: 20240316 특별 강습
+title: 임다연 교수 자유형 특강
 date: 2024-03-16
-description: 임다연 교수 자유형 특강 @ KBS스포츠월드
+description: KBS스포츠월드
 image: 58233236380.jpg
 tags:
     - 자유형

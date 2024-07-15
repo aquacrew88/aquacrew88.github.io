@@ -1,7 +1,7 @@
 ---
-title: 20240301 특별 강습
+title: 아크샘 배영 특강
 date: 2024-03-01
-description: 배영 with 아크샘 @ 경서스포츠센터
+description: 경서스포츠센터
 image: 57882014301.jpg
 tags:
     - 배영

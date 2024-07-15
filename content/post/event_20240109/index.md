@@ -1,7 +1,7 @@
 ---
-title: 20240109 신년회
+title: 2024년 아쿠아크루 신년회
 date: 2024-01-09
-description: 2024녀녀 아쿠아크루 신년회
+# description: 2024년 아쿠아크루 신년회
 image: 56705302910.jpg
 tags:
     - 신년회

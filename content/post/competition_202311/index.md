@@ -1,7 +1,7 @@
 ---
-title: 20231112 강서대회
+title: 제3회 강서구청장배 수영대회
 date: 2023-11-12
-description: 제3회 강서구청장배 수영대회
+# description: 제3회 강서구청장배 수영대회
 image: 56747752316.jpg
 tags:
     - 강서

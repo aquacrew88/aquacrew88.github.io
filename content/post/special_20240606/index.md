@@ -1,7 +1,7 @@
 ---
-title: 20240606 특별 강습
+title: 아크샘 평영 특강
 date: 2024-06-06
-description: 아크샘 평영 특강 @KBS스포츠월드
+description: KBS스포츠월드
 image: 60273749462.jpg
 tags:
     - 평영

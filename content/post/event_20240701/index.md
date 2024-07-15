@@ -1,7 +1,7 @@
 ---
-title: 20240701 인생샷
+title: 아쿠아크루 여름맞이 인생샷 콘테스트
 date: 2024-07-01
-description: 아쿠아크루 인생샷 콘테스트
+description: 아쿠아크루 첫 여름 맞이 이벤트
 image: scgqh7.png
 tags:
     - 콘테스트

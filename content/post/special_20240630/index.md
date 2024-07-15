@@ -1,7 +1,7 @@
 ---
-title: 20240630 특별 강습
+title: 최원석샘 교정 특강
 date: 2024-06-30
-description: 최원석샘 교정 특강 @KBS스포츠월드
+description: KBS스포츠월드
 image: 60886024133.jpg
 tags:
     - 교정

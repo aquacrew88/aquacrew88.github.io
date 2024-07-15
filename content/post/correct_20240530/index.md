@@ -1,7 +1,7 @@
 ---
-title: 202406 교정반1기
+title: 자세 교정반 1기 모집
 date: 2024-05-30
-description: 자세 교정반 1기 모집
+# description: 자세 교정반 1기 모집
 image: correct.png
 tags:
     - 교정

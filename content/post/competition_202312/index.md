@@ -1,7 +1,7 @@
 ---
-title: 20231210 수원대회
+title: 제34회 수원특례시장배 수영대회
 date: 2023-12-10
-description: 제34회 수원특례시장배 수영대회
+# description: 제34회 수원특례시장배 수영대회
 image: 56706731123.jpg
 tags:
     - 수원
