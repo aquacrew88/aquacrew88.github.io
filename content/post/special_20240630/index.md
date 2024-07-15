@@ -1,5 +1,5 @@
 ---
-title: 언더스윔 교정 특강 (최원석)
+title: 자세 교정 특강 - 최원석 (언더스윔)
 date: 2024-06-30
 description: KBS스포츠월드
 image: 60886024133.jpg
