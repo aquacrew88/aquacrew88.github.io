@@ -1,5 +1,5 @@
 ---
-title: 자세 교정반 1기 모집
+title: 자세 교정반 1기 모집 - 최원석 샘 (언더스윔)
 date: 2024-05-30
 # description: 자세 교정반 1기 모집
 image: correct.png
