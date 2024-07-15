@@ -1,15 +1,15 @@
 ---
 title: 20240301 특별 강습
 date: 2024-03-01
-description: 임다연 교수 자유형 특강 @KBS스포츠월드
-image: 58233236380.jpg
+description: 배영 with 아크샘 @ 경서스포츠센터
+image: 57882014301.jpg
 tags:
-    - 임다연
-    - KBS
-    - 자유형
+    - 아크샘
+    - 경서
+    - 배영
 categories:
     - 특별강습
 ---
 
-- 참가자: https://band.us/band/93484357/post/96
-- 앨범: https://band.us/band/93484357/post/103
+- 참가자: https://band.us/band/93484357/post/82
+- 앨범: https://band.us/band/93484357/post/93

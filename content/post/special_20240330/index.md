@@ -1,0 +1,14 @@
+---
+title: 20240330 특별 강습
+date: 2024-03-30
+description: 아크샘 배영 특강 @KBS스포츠월드
+image: 
+tags:
+    - 아크샘
+    - KBS
+    - 배영
+categories:
+    - 특별강습
+---
+
+- 참가자: https://band.us/band/93484357/post/105
