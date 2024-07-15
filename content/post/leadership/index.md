@@ -3,7 +3,7 @@ title: 운영진 소개
 description: 아쿠아크루 운영진 명단 (2024-2026)
 slug: leadership
 date: 2023-12-02 00:00:00+0000
-# image: cover.jpg
+image: 96624513.2.jpg
 categories:
     - About AquaCrew
 tags:

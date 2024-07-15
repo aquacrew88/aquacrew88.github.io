@@ -2,7 +2,7 @@
 title: 202408 교정반2기
 date: 2024-07-15
 description: 자세 교정반 2기 모집
-image:
+image: correct.png
 tags:
     - 교정
     - 최원석

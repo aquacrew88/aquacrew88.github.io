@@ -2,7 +2,7 @@
 title: 202406 교정반1기
 date: 2024-05-30
 description: 자세 교정반 1기 모집
-image:
+image: correct.png
 tags:
     - 교정
     - 최원석

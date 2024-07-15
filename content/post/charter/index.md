@@ -3,7 +3,7 @@ title: 정관
 description: 아쿠아크루 정관
 slug: charter
 date: 2023-12-03 00:00:00+0000
-# image: cover.jpg
+image: stock.jpg
 categories:
     - About AquaCrew
 tags:
