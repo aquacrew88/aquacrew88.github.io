@@ -1,7 +1,8 @@
 ---
 title: AquaCrew
 description: 아쿠아크루를 소개합니다. 
-image:
+image: aquacrew1.png
+weight: 2
 
 # Badge style
 style:
