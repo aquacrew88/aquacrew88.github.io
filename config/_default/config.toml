@@ -2,7 +2,7 @@
 baseurl = "https://aquacrew.co.kr"
 languageCode = "en-us"
 paginate = 5
-title = "Aqua Crew"
+title = "아쿠아크루"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
