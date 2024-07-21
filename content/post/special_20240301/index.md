@@ -1,5 +1,5 @@
 ---
-title: 아크샘 배영 특강
+title: 2024-03-01 아크샘 배영 특강
 date: 2024-03-01
 description: 경서스포츠센터
 image: 57882014301.jpg

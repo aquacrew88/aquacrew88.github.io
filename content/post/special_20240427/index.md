@@ -1,5 +1,5 @@
 ---
-title: 아크샘 접영 특강
+title: 2024-04-27 아크샘 접영 특강
 date: 2024-04-27
 description: KBS스포츠월드
 image: 59277080615.jpg
