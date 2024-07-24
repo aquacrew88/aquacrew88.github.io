@@ -1,5 +1,5 @@
 ---
-title: 20240309 정기 훈련
+title: 2024-03-09 정기 훈련
 date: 2024-03-09
 description: KBS스포츠월드
 image: 58066655356.jpg

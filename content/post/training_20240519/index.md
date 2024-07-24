@@ -1,5 +1,5 @@
 ---
-title: 20240519 정기 훈련
+title: 2024-05-19 정기 훈련
 date: 2024-05-19
 description: 마곡 M밸리레포츠
 image: 59816810987.jpg

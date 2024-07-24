@@ -1,5 +1,5 @@
 ---
-title: 20240127 정기 훈련
+title: 2024-01-27 정기 훈련
 date: 2024-01-27
 description: KBS스포츠월드
 image: g8z5k4.jpg
