@@ -39,4 +39,4 @@ H시(09시 40분~10시10)드릴
 총 2,640
 
 - 참가자: [BAND LINK](https://band.us/band/93484357/schedule/4%2F93484357%2F411435539%2F19700101)
-- 앨범: [BAND LINK](https://band.us/band/93484357/album/80751649)
+- 앨범: [BAND LINK](https://band.us/band/93484357/album/80991310)
