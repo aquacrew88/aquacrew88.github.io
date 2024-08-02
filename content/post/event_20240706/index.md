@@ -9,9 +9,5 @@ categories:
     - 이벤트
 ---
 
-![](60973697577.jpeg)
-
 - 참가자: https://band.us/band/93484357/post/154
 - 앨범: https://band.us/band/93484357/post/160
-
-![](61051226877.jpeg)
