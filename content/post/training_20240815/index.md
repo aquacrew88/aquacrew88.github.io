@@ -63,5 +63,5 @@ written by KCH
 
 
 
-- 참가자: [BAND LINK](https://band.us/band/93484357/schedule/4%2F93484357%2F452061234%2F19700101)
+- 참가자: [BAND LINK](https://band.us/band/93484357/schedule/4%2F93484357%2F452061699%2F19700101)
 - 앨범: [BAND LINK](https://band.us/band/93484357/album/81364895)
