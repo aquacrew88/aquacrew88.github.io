@@ -9,4 +9,4 @@ categories:
     - 이벤트
 ---
 
-- 앨범: https://band.us/band/93484357/post/160
+- 앨범: [BAND LINK](https://band.us/band/93484357/album/81309414)
