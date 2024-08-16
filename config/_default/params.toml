@@ -19,7 +19,7 @@ subtitle = "Beyond Swim. Aqua Crew!"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/aquacrew1.png"
+src = "img/logo_italic.png"
 
 [article]
 headingAnchor = false
