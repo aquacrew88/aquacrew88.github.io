@@ -24,7 +24,7 @@ src = "img/logo_italic.png"
 [article]
 headingAnchor = false
 math = false
-readingTime = true
+readingTime = false
 
 [article.license]
 enabled = false
