@@ -17,5 +17,3 @@ weight: 2       # You can add weight to some posts to override the default sorti
 - 총무: 이정하 (ljh1101@rainbowpr.co.kr)
 - 고문: 김춘호 (rlacnsgh2@gcday.co.kr)
 - 고문: 장학성 (hakssung@gmail.com)
-
-작성일: 2024년 1월 1일
