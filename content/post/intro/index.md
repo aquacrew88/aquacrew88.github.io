@@ -22,4 +22,4 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 감사합니다.
 
-아쿠아크루 회장 드림
+아쿠아크루 회장 드림 (dubu224@naver.com)
