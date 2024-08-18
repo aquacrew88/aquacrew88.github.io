@@ -10,7 +10,7 @@ categories:
 ---
 
 # 2024.08.10. 훈련일지
-written by KCH
+written by 김춘호
 
 ## 1부 웜업 및 킥 장갑 1650
 ### H시(09시~09시 40분) 

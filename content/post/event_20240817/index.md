@@ -12,7 +12,7 @@ categories:
 - 앨범: [BAND LINK](https://band.us/band/93484357/album/81414491)
 
 # 일정과 코스 설명드립니다.
-(written by kch)
+written by 김춘호
 
 계양산은 5개코로 이루워 져있고 3개곳의 쉼터 있습니다.
 
