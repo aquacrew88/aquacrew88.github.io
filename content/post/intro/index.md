@@ -22,4 +22,4 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 감사합니다.
 
-아쿠아크루 회장 손수민 드림 (sumin1216@gmail.com)
+아쿠아크루 회장 드림
