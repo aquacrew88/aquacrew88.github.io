@@ -9,6 +9,9 @@ categories:
  - 정기훈련
 ---
 
+- 참가자: [BAND LINK](https://band.us/band/93484357/schedule/4%2F93484357%2F452061699%2F19700101)
+- 앨범: [BAND LINK](https://band.us/band/93484357/album/81364895)
+
 ## 2024.08.15 광복절 아쿠아크루 훈련일지 
 written by 김춘호
 
@@ -62,6 +65,3 @@ written by 김춘호
 ### 5. 드릴과킥은 정확한 동작을 만들기 위함이니 절대 빨리금지
 
 
-
-- 참가자: [BAND LINK](https://band.us/band/93484357/schedule/4%2F93484357%2F452061699%2F19700101)
-- 앨범: [BAND LINK](https://band.us/band/93484357/album/81364895)
