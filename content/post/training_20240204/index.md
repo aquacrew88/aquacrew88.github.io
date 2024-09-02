@@ -2,7 +2,7 @@
 title: 2024-02-04 정기 훈련
 date: 2024-02-04
 description: KBS스포츠월드
-image: 57297167612.jpg
+image: 57297167618.jpg
 tags:
     - 핀추발
 categories:
