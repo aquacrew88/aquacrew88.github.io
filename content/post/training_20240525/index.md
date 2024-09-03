@@ -2,7 +2,7 @@
 title: 2024-05-25 정기 훈련
 date: 2024-05-25
 description: KBS스포츠월드
-image: 59966544815.jpg
+image: 59966544815.png
 tags:
     - 
 categories:

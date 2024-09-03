@@ -2,7 +2,7 @@
 title: 2024-07-20 아크샘 배영 특강
 date: 2024-07-20
 description: 경서스포츠센터
-image: 47001.jpeg
+image: 61395235513.jpg
 tags:
     - 배영
 categories:

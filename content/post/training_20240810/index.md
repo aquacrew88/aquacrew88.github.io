@@ -2,7 +2,7 @@
 title: 2024-08-10 정기 훈련
 date: 2024-08-10
 description: KBS스포츠월드
-image: 61906128439.jpg
+image: 61906128437.jpg
 tags:
  - 
 categories:

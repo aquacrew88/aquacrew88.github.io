@@ -2,7 +2,7 @@
 title: 2024-05-11 정기 훈련
 date: 2024-05-11
 description: KBS스포츠월드
-image: 59623078376.jpg
+image: 59623078370.jpg
 tags:
     - 
 categories:
@@ -10,4 +10,4 @@ categories:
 ---
 
 - 참가자: https://band.us/band/93484357/post/138
-- 앨범: https://band.us/band/93484357/album/79632040
+- 앨범: https://band.us/band/93484357/album/79460757
