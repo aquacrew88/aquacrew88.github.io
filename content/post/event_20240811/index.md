@@ -1,5 +1,5 @@
 ---
-title: 빠지 벙개
+title: 2024-08-11 빠지 벙개
 date: 2024-08-11
 description: 가평 힐링 맨하탄
 image: 61955165795.jpg
