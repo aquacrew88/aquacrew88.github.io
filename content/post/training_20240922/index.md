@@ -1,5 +1,5 @@
 ---
-title: 2024-09-22 정기 훈련 w/언더스윔
+title: 2024-09-22 정기 훈련
 date: 2024-09-22
 description: KBS스포츠월드
 image: 63007327024.jpg
@@ -13,7 +13,6 @@ categories:
 - 앨범: [BAND LINK](https://band.us/band/93484357/album/82084987)
 
 ## 주요 훈련
-by [언더스윔](https://www.youtube.com/@KBS88)
 
 ### 자유형 발차기
 - 50m 1분 30초 싸이클 * 6개
