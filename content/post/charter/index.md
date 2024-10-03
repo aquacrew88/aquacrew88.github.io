@@ -1,6 +1,6 @@
 ---
-title: 정관
-description: 아쿠아크루 정관 (아래 정관은 작성중인 상태로 효력 발생 전입니다.)
+title: 아쿠아크루 정관
+description: 아래 정관은 작성중인 상태로 효력 발생 전입니다.
 slug: charter
 date: 2023-12-03 00:00:00+0000
 image: stock.jpg
