@@ -13,8 +13,7 @@ categories:
 - 앨범: [BAND LINK](https://band.us/band/93484357/album/82650251)
 
 ## 배영 훈련 프로그램
-
-## AQUA CREW 수영 훈련 프로그램 (2024.10.19)
+by 김춘호
 
 ### 1부: 웜업 (40분)
 *중간중간 개인 교정 진행*
