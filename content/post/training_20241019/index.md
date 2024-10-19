@@ -4,7 +4,7 @@ date: 2024-10-19
 description: KBS스포츠월드
 image: 10-19-19-00-56 002.jpeg
 tags:
- - 배영
+ - 
 categories:
  - 정기 훈련
 ---
