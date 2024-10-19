@@ -13,7 +13,7 @@ categories:
 - 앨범: [BAND LINK](https://band.us/band/93484357/album/82650251)
 
 ## 배영 훈련 프로그램
-by 김춘호
+*by 김춘호*
 
 ### 1부: 웜업 (40분)
 *중간중간 개인 교정 진행*
