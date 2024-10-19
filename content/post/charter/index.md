@@ -1,6 +1,6 @@
 ---
 title: 아쿠아크루 정관
-description: 아래 정관은 작성중인 상태로 효력 발생 전입니다.
+description: 아쿠아크루 수영 동호회의 목적, 회원 자격, 조직 구조 및 활동 규정을 포함한 원칙을 정리한 정관입니다.
 slug: charter
 date: 2023-12-03 00:00:00+0000
 image: stock.jpg
