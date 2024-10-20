@@ -6,7 +6,7 @@ image: 2024-10-04-08-44-58.jpeg
 tags:
  - 
 categories:
- - 정기 훈련
+ - 정기훈련
 ---
 
 - 참가자: [BAND LINK](https://band.us/band/93484357/schedule/4%2F93484357%2F496821791%2F19700101)

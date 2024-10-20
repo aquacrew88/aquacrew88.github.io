@@ -6,7 +6,7 @@ image: 10-19-19-00-56 002.jpeg
 tags:
  - 
 categories:
- - 정기 훈련
+ - 정기훈련
 ---
 
 - 참가자: [BAND LINK](https://band.us/band/93484357/schedule/4%2F93484357%2F495289262%2F19700101)
