@@ -1,19 +1,19 @@
 ---
-title: 2024-10-19 정기 훈련
+title: 2024-10-19 자체 훈련
 date: 2024-10-19
 description: KBS스포츠월드
 image: 10-19-19-00-56 002.jpeg
 tags:
  - 
 categories:
- - 정기훈련
+ - 자체훈련
 ---
 
 - 참가자: [BAND LINK](https://band.us/band/93484357/schedule/4%2F93484357%2F495289262%2F19700101)
 - 앨범: [BAND LINK](https://band.us/band/93484357/album/82650251)
 
 ## 배영 훈련 프로그램
-*by 김춘호*
+by 김춘호
 
 ### 1부: 웜업 (40분)
 *중간중간 개인 교정 진행*

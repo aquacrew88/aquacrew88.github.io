@@ -1,12 +1,12 @@
 ---
-title: 2024-02-04 정기 훈련
+title: 2024-02-04 자체 훈련
 date: 2024-02-04
 description: KBS스포츠월드
 image: 57297167618.jpg
 tags:
     - 핀추발
 categories:
-    - 정기훈련
+    - 자체훈련
 ---
 
 1,500m 추발대회 연습

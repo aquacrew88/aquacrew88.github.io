@@ -1,12 +1,12 @@
 ---
-title: 2024-11-02 정기 훈련
+title: 2024-11-02 자체 훈련
 date: 2024-11-02
 description: KBS스포츠월드
 image: IMG_66412.jpeg
 tags:
  - 
 categories:
- - 정기훈련
+ - 자체훈련
 ---
 
 - 참가자: [BAND LINK](https://band.us/band/93484357/schedule/4%2F93484357%2F515533681%2F19700101)

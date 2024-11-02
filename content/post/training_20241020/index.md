@@ -1,12 +1,12 @@
 ---
-title: 2024-10-20 정기 훈련
+title: 2024-10-20 코치 지도 전문 훈련
 date: 2024-10-20
 description: KBS스포츠월드
 image: free-3.jpg
 tags:
  - 
 categories:
- - 정기훈련
+ - 전문훈련
 ---
 
 - 참가자: [BAND LINK](https://band.us/band/93484357/schedule/4%2F93484357%2F515623529%2F19700101)

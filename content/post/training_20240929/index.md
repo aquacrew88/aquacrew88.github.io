@@ -6,7 +6,7 @@ image: 63194478722.jpg
 tags:
  - 
 categories:
- - 정기훈련
+ - 자체훈련
 ---
 
 - 영상: [BAND LINK](https://band.us/band/93484357/album/82221242)
