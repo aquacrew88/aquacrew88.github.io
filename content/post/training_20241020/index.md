@@ -1,5 +1,5 @@
 ---
-title: 2024-10-20 코치 지도 전문 훈련
+title: 2024-10-20 전문 코치 지도 훈련
 date: 2024-10-20
 description: KBS스포츠월드
 image: free-3.jpg
