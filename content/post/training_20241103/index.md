@@ -2,7 +2,7 @@
 title: 2024-11-03 전문 코치 지도 훈련
 date: 2024-11-03
 description: KBS스포츠월드
-image: _JB23027.png
+image: JB23027.png
 tags:
  - 
 categories:
