@@ -2,7 +2,7 @@
 title: 2024-11-09 아크샘 배영 특강
 date: 2024-11-09
 description: 경서스포츠센터
-image: 64321133954.jpg
+image: backstroke.jpeg
 tags:
     - 배영
 categories:
