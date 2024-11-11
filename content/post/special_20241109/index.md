@@ -11,4 +11,3 @@ categories:
 
 - [참가신청](https://band.us/band/93484357/schedule/4%2F93484357%2F522369908%2F19700101)
 - [앨범](https://band.us/band/93484357/album/83118827)
-- [Ark_Swimming 배영](https://www.youtube.com/@ARK_SPIRIT/search?query=%EB%B0%B0%EC%98%81)
