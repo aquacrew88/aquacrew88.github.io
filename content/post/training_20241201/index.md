@@ -1,12 +1,12 @@
 ---
-title: 2024-12-01 전문 코치 지도 훈련
+title: 2024-12-01 코칭 훈련
 date: 2024-12-01
 description: KBS스포츠월드
 image: 2024-12-01-11-20-16.jpeg
 tags:
  - 
 categories:
- - 전문훈련
+ - 코칭훈련
 ---
 
 - 참가자: [BAND LINK](https://band.us/band/93484357/schedule/4%2F93484357%2F537540603%2F19700101)
