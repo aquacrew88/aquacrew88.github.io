@@ -2,7 +2,7 @@
 title: 2024-11-23 자체 훈련
 date: 2024-11-23
 description: KBS스포츠월드
-image: 64673706058.jpg
+image: 64673706060.jpg
 tags:
  - 
 categories:

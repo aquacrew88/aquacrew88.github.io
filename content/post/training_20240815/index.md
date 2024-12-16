@@ -2,7 +2,7 @@
 title: 2024-08-15 자체 훈련
 date: 2024-08-15
 description: KBS스포츠월드
-image: 2024-08-15-23-06-19.jpeg
+image: mixedgroup.jpg
 tags:
  - 
 categories:
