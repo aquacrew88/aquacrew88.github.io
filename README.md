@@ -1,4 +1,4 @@
-<img align="center" width="600" alt="logo" src="/assets/img/logo_italic.png">
+<img align="center" width="300" alt="logo" src="/assets/img/logo_italic.png">
 
 # AquaCrew Website
 
