@@ -1,8 +1,8 @@
-<img align="center" width="300" alt="logo" src="/assets/img/logo_italic.png">
-
 # AquaCrew Website
 
 Welcome to the official repository for the [AquaCrew](https://aquacrew.co.kr) website. AquaCrew is a vibrant swimming club based in Seoul, South Korea, operating out of [KBS Sports World](https://www.kbssw.co.kr/) in Gangseo-gu.
+
+<img align="center" width="300" alt="logo" src="/assets/img/logo_italic.png">
 
 ## About AquaCrew
 
