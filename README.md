@@ -1,57 +1,50 @@
-<img align="right" width="150" alt="logo" src="https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png">
+<img align="right" width="150" alt="logo" src="/assets/img/logo_italic.png">
 
-# Hugo Theme Stack Starter Template
+# AquaCrew Website
 
-This is a quick start template for [Hugo theme Stack](https://github.com/CaiJimmy/hugo-theme-stack). It uses [Hugo modules](https://gohugo.io/hugo-modules/) feature to load the theme.
+Welcome to the official repository for the [AquaCrew](https://aquacrew.co.kr) website. AquaCrew is a vibrant swimming club based in Seoul, South Korea, operating out of [KBS Sports World](https://www.kbssw.co.kr/) in Gangseo-gu.
 
-It comes with a basic theme structure and configuration. GitHub action has been set up to deploy the theme to a public GitHub page automatically. Also, there's a cron job to update the theme automatically everyday.
+## About AquaCrew
 
-## Get started
+AquaCrew is a diverse community of swimming enthusiasts, ranging from their 20s to 60s. Our club prioritizes proper swimming techniques and form correction. We offer various programs including dedicated coach training, self-training sessions, and special lessons to help our members improve their skills and foster a sense of unity within the club.
 
-1. Click *Use this template*, and create your repository on GitHub.
-![Step 1](https://user-images.githubusercontent.com/5889006/156916624-20b2a784-f3a9-4718-aa5f-ce2a436b241f.png)
+## Website Content
 
-2. Once the repository is created, create a GitHub codespace associated with it.
-![Create codespace](https://user-images.githubusercontent.com/5889006/156916672-43b7b6e9-4ffb-4704-b4ba-d5ca40ffcae7.png)
+The website includes:
 
-3. And voila! You're ready to go. The codespace has been configured with the latest version of Hugo extended, just run `hugo server` in the terminal and see your new site in action.
+- Information about AquaCrew and its activities
+- Club rules and regulations
+- News and updates about club events
+- Training schedules and programs
 
-4. Check `config` folder for the configuration files. You can edit them to suit your needs. Make sure to update the `baseurl` property in `config/_default/config.toml` to your site's URL.
+## Technical Details
 
-5. Once you're done editing the site, just commit it and push it. GitHub action will deploy the site automatically to GitHub page associated with the repository.
-![GitHub action](https://user-images.githubusercontent.com/5889006/156916881-90b8bb9b-1925-4e60-9d7a-8026cda729bf.png)
+This website is built using the [Hugo Theme Stack Starter Template](https://github.com/CaiJimmy/hugo-theme-stack-starter). [Hugo](https://gohugo.io/) is a fast and flexible static site generator that provides an excellent foundation for our website.
 
----
+### Key Features of Our Setup:
 
-In case you don't want to use GitHub codespace, you can also run this template in your local machine. **You need to install Git, Go and Hugo extended locally.**
+- **Fast and Responsive**: The Hugo Theme Stack ensures our site loads quickly and looks great on all devices.
+- **Easy to Maintain**: With Hugo's simple structure, we can easily update and manage our content.
+- **Customizable**: We've tailored the Stack theme to fit AquaCrew's unique style and needs.
 
-## Update theme manually
+## Contributing
 
-Run:
+We welcome contributions to improve our website. If you'd like to contribute, please follow these steps:
 
-```bash
-hugo mod get -u github.com/CaiJimmy/hugo-theme-stack/v3
-hugo mod tidy
-```
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repository
+2. Create a new branch for your feature (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
-> This starter template has been configured with `v3` version of theme. Due to the limitation of Go module, once the `v4` or up version of theme is released, you need to update the theme manually. (Modifying `config/module.toml` file)
+Please ensure your code adheres to our coding standards and includes appropriate documentation.
 
-## Deploy to another static page hostings
+## License
 
-If you want to build this site using another static page hosting, you need to make sure they have Go installed in the machine. 
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for details.
 
-<details>
-  <summary>Vercel</summary>
-  
-You need to overwrite build command to install manually Go:
+## Contact
 
-```
-amazon-linux-extras install golang1.11 && hugo --gc --minify
-```
+For more information about AquaCrew or to join our club, please contact us at dubu224@naver.com.
 
-![](https://user-images.githubusercontent.com/5889006/156917172-01e4d418-3469-4ffb-97e4-a905d28b8424.png)
-
-Make sure also to specify Hugo version in the environment variable `HUGO_VERSION` (Use the latest version of Hugo extended):
-
-![Environment variable](https://user-images.githubusercontent.com/5889006/156917212-afb7c70d-ab85-480f-8288-b15781a462c0.png)
-</details>
+We look forward to swimming with you!
