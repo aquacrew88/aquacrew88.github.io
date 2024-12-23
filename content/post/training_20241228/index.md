@@ -1,6 +1,6 @@
 ---
 title: 2024-12-28 자체 훈련
-date: 2024-12-28
+date: 2024-12-23
 description: KBS스포츠월드
 image: 6752-swim-training.jpg
 tags:
