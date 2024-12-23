@@ -9,7 +9,7 @@ categories:
  - 자체훈련
 ---
 
-- 참가자: [BAND LINK](https://band.us/band/93484357/schedule/4%2F93484357%2F548827662%2F19700101)
+- 참가신청: [BAND LINK](https://band.us/band/93484357/schedule/4%2F93484357%2F548827662%2F19700101)
 <!-- - 앨범: [BAND LINK](https://band.us/band/93484357/album/83386076) -->
 
 ## AQUA CREW 훈련 프로그램 (2024-12-28 토요일)
