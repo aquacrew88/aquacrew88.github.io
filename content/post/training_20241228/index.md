@@ -48,7 +48,7 @@ categories:
 | Start dive | 25 | 6 | No breathing/stroke check |
 | Start dive | 50 | 4 | - |
 
-#### B그룹 (배영) - 2레인 (김춘호 코치)
+#### B그룹 (배영) - 2레인 (Coaching: 김춘호)
 **드릴 훈련** (핀 착용)
 - Level 1: Kick + catch
 - Level 2: Rolling + Finish
