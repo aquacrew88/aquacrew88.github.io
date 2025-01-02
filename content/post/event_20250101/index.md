@@ -4,7 +4,7 @@ date: 2025-01-01
 description: 2024 아쿠아크루 킥챌린지 결과
 image: Freestyle_kick_02.jpeg
 tags:
- - 연말연시
+ - 킥
 categories:
  - 이벤트
 ---
