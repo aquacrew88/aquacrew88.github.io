@@ -13,7 +13,7 @@ categories:
 - 앨범: [BAND LINK](https://band.us/band/93484357/album/84275067)
 
 
-## AQUA CREW 훈련 프로그램 (2025-01-11 토요일)
+## 훈련 프로그램
 시간: 09:00 - 10:00
 
 ### 1조 훈련
