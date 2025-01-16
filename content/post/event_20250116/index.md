@@ -1,7 +1,7 @@
 ---
 title: 2025 아쿠아크루 슬로건 공모전
 date: 2025-01-16
-description: 2025, 흐름을 주도하라!
+# description: 2025, 흐름을 주도하라!
 image: cover.png
 tags:
  - 슬로건
