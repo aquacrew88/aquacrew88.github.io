@@ -2,12 +2,14 @@
 title: 2025-02-22 자체 훈련
 date: 2025-02-22
 description: KBS스포츠월드
-image: 2025-02-22-18-38-52.jpeg
+image: 66924343587.jpg
 tags:
  - 
 categories:
  - 자체훈련
 ---
+
+![](2025-02-22-18-38-52.jpeg)
 
 - 참가신청: [BAND LINK](https://band.us/band/93484357/schedule/4%2F93484357%2F597447872%2F19700101)
 - 앨범: [BAND LINK](https://band.us/band/93484357/album/85028302)
