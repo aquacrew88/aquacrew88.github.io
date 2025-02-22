@@ -1,7 +1,7 @@
 # Change baseurl before deploy
 baseurl = "https://aquacrew.co.kr"
 languageCode = "en-us"
-paginate = 50
+pagination.pagerSize = 50
 title = "아쿠아크루"
 
 # Theme i18n support
