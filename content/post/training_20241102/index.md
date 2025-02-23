@@ -12,48 +12,47 @@ categories:
 - 참가자: [BAND LINK](https://band.us/band/93484357/schedule/4%2F93484357%2F515533681%2F19700101)
 - 앨범: [BAND LINK](https://band.us/band/93484357/album/82948372)
 
-## AQUACREW SWIM 훈련 프로그램 (2024-11-02 토요일 AM 09:00~11:00)
-by 김춘호
+시간: AM 09:00~11:00
 
-### 1. Warm up
+## 1. Warm up
 | 운동 | 세부 사항 |
 |------|-----------|
 | Choice | 10분 |
 
-### 2. Pre Set
+## 2. Pre Set
 
-#### Sculling (NoKick/Slow)
+### Sculling (NoKick/Slow)
 | 운동 | 거리 (m) | 반복 |
 |------|----------|------|
 | Front sculling | 35 | 2회 |
 | Middle sculling | 35 | 2회 |
 | Low sculling | 35 | 2회 |
 
-#### Kick
+### Kick
 | 운동 | 거리 (m) | 반복 | 비고 |
 |------|----------|------|------|
 | Free + Slow | 35 | 4회 | Ankle |
 | Free + Fast | 35 | 2회 | |
 
-#### Drill
+### Drill
 | 운동 | 거리 (m) | 반복 | 비고 |
 |------|----------|------|------|
 | Free | 35 | 4회 | Swimming Push/Finish |
 
-### 3. Main set
+## 3. Main set
 | 운동 | 거리 (m) | 반복 | 비고 |
 |------|----------|------|------|
 | Free + Slow | 35 | 4회 | Combi |
 | Free + Fast | 35 | 2회 | 6it |
 | 100 | 100 | 4회 | 50 slow + 50 fast, 2'00<br>(Last 10M: No breathing dash) |
 
-### 4. Post set
+## 4. Post set
 | 운동 | 시간/거리 | 반복 | 비고 |
 |------|-----------|------|------|
 | Vertical Kick | 30초 | 4회 | Downkick |
 | Start dive | - | - | Free |
 
-### 5. Cool down
+## 5. Cool down
 | 운동 | 거리 (m) | 반복 |
 |------|----------|------|
 | 자유영 | 100 | 1회 |
