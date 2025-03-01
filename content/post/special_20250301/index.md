@@ -1,7 +1,7 @@
 ---
 title: 2025-03-01 아크샘 배영 특강
 date: 2025-03-01
-description: 신정레포츠센터
+description: 신정스포츠센터
 image: 2025-03-01-23-23-20.jpeg
 tags:
     - 배영
