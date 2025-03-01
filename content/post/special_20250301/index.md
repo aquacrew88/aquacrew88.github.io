@@ -14,4 +14,4 @@ categories:
 - [참가신청](https://band.us/band/93484357/post/253)
 - [앨범](https://band.us/band/93484357/album/85166320)
 
-{{< youtube 55EPH6t_Hqo >}}
+<!-- {{< youtube 55EPH6t_Hqo >}} -->
