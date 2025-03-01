@@ -1,7 +1,7 @@
 ---
 title: 2024-12-21 아크샘 배영 특강
 date: 2024-12-21
-description: 신정레포츠센터
+description: 신정스포츠센터
 image: backstorke_arm.png
 tags:
     - 배영
