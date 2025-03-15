@@ -14,6 +14,8 @@ categories:
 - 앨범: [BAND LINK](https://band.us/band/93484357/album/85426770)
 
 
+**훈련감독: 김춘호**
+
 ---
 
 ## **1. Warm-up (13:30~13:40)**  
