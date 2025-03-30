@@ -10,7 +10,7 @@ categories:
 ---
 
 - 참가신청: [BAND LINK](https://band.us/band/93484357/schedule/4%2F93484357%2F615931560%2F19700101)
-- 앨범: [BAND LINK](https://band.us/band/93484357/album/85437518)
+- 앨범: [BAND LINK](https://band.us/band/93484357/album/85688893)
 
 **훈련명: "실미도"**
 
