@@ -11,7 +11,7 @@ categories:
 
 
 - 참가신청: [BAND LINK](https://band.us/band/93484357/schedule/4%2F93484357%2F649934012%2F19700101)
-- 앨범: [BAND LINK](https://band.us/band/93484357/album/85548874)
+- 앨범: [BAND LINK](https://band.us/band/93484357/album/85805998)
 
 
 **일시**: 2025년 4월 5일 (토) AM 09:00~11:00  
