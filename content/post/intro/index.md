@@ -20,18 +20,19 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 **2023년**
 - 아쿠아크루 창단 및 공식 활동 시작
-- 제3회 강서구청장배 수영대회 종합 3위
+- [제3회 강서구청장배 수영대회](https://aquacrew.co.kr/p/%EC%A0%9C3%ED%9A%8C-%EA%B0%95%EC%84%9C%EA%B5%AC%EC%B2%AD%EC%9E%A5%EB%B0%B0-%EC%88%98%EC%98%81%EB%8C%80%ED%9A%8C/) 종합 3위
 
 **2024년**
 - 회원 확대 및 활동 영역 확장
 - 코칭 훈련, 자체 훈련, 특별 강습 등 다양한 프로그램 운영
 - 등산, 볼링, 해양스포츠 등 다양한 친목 활동 진행
-- 제9회 강서구 수영연맹회장배 수영대회 종합 2위
-- 제1회 아쿠아크루회장배 수영대회 개최
-- 제4회 강서구청장배 수영대회 종합우승
+- [제9회 강서구 수영연맹회장배 수영대회](https://aquacrew.co.kr/p/%EC%A0%9C9%ED%9A%8C-%EA%B0%95%EC%84%9C%EA%B5%AC-%EC%88%98%EC%98%81%EC%97%B0%EB%A7%B9%ED%9A%8C%EC%9E%A5%EB%B0%B0-%EC%88%98%EC%98%81%EB%8C%80%ED%9A%8C/) 종합 2위
+- [제1회 아쿠아크루회장배 수영대회](https://aquacrew.co.kr/p/%EC%A0%9C1%ED%9A%8C-%EC%95%84%EC%BF%A0%EC%95%84%ED%81%AC%EB%A3%A8%ED%9A%8C%EC%9E%A5%EB%B0%B0-%EC%88%98%EC%98%81%EB%8C%80%ED%9A%8C/) 개최
+- [제2회 안산시장배 마스터즈 핀대회](https://aquacrew.co.kr/p/%EC%A0%9C2%ED%9A%8C-%EC%95%88%EC%82%B0%EC%8B%9C%EC%9E%A5%EB%B0%B0-%EB%A7%88%EC%8A%A4%ED%84%B0%EC%A6%88-%ED%95%80%EB%8C%80%ED%9A%8C/) 종합 4위
+- [제4회 강서구청장배 수영대회](https://aquacrew.co.kr/p/%EC%A0%9C4%ED%9A%8C-%EA%B0%95%EC%84%9C%EA%B5%AC%EC%B2%AD%EC%9E%A5%EB%B0%B0-%EC%88%98%EC%98%81-%EB%8C%80%ED%9A%8C/) 종합 우승
 
 **2025년**
-- 제19회 ASF 회장배 전국 마스터즈 수영대회 종합 5위
+- [제19회 ASF 회장배 전국 마스터즈 수영대회](https://aquacrew.co.kr/p/%EC%A0%9C19%ED%9A%8C-asf-%EC%95%88%EC%96%91%EC%8B%9C-%ED%9A%8C%EC%9E%A5%EB%B0%B0-%EC%A0%84%EA%B5%AD-%EB%A7%88%EC%8A%A4%ED%84%B0%EC%A6%88-%EC%88%98%EC%98%81%EB%8C%80%ED%9A%8C/) 종합 5위
 
 ### 아쿠아크루의 철학과 프로그램
 
