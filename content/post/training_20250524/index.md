@@ -2,7 +2,7 @@
 title: 2025-05-24 자체 훈련
 date: 2025-05-23
 description: KBS스포츠월드
-image: 0577398c3339.png
+image: 2025-05-24-16-59-19.jpeg
 tags:
  - 
 categories:
@@ -56,9 +56,9 @@ categories:
 
 | 내용                                    | 거리 | 반복/세트 | 설명                                           |
 |----------------------------------------------|------|-----------|------------------------------------------------|
-| Butterfly / Backstroke                      | 50   | 3회       | IM(혼영) 전환, 접영→배영, 턴 및 영법 전환 훈련 |
-| Backstroke / Breaststroke                   | 50   | 3회       | IM(혼영) 전환, 배영→평영, 턴 및 영법 전환 훈련 |
-| Breaststroke / Freestyle                    | 50   | 3회       | IM(혼영) 전환, 평영→자유형, 턴 및 영법 전환 훈련 |
+| Butterfly / Backstroke                      | 50   | 2회       | IM(혼영) 전환, 접영→배영, 턴 및 영법 전환 훈련 |
+| Backstroke / Breaststroke                   | 50   | 2회       | IM(혼영) 전환, 배영→평영, 턴 및 영법 전환 훈련 |
+| Breaststroke / Freestyle                    | 50   | 2회       | IM(혼영) 전환, 평영→자유형, 턴 및 영법 전환 훈련 |
 | **W.Fins Freestyle (핀 착용 인터벌, 3세트)** |      |           |                                                |
 | └ 50m                                       | 50   | 3회/세트  | 속도 유지, 페이스 조절(A: 1:00cy / B: 1:10cy)  |
 | └ 100m                                      | 100  | 1회/세트  | 중간 거리 지속력 강화(A: 1:40cy / B: 1:50cy)   |
