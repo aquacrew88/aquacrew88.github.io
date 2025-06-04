@@ -10,4 +10,4 @@ categories:
 
 - 앨범/영상: [BAND](https://band.us/band/93484357/album/86971757)
 
-![](053A5356.JPG)
+![](2025-06-04-16-42-30.jpeg)
