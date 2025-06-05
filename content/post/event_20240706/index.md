@@ -10,4 +10,4 @@ categories:
 ---
 
 - 참가자: https://band.us/band/93484357/post/154
-- 앨범: https://band.us/band/93484357/post/160
+- 앨범: https://www.band.us/band/93484357/album/80606461
