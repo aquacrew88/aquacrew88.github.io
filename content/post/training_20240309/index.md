@@ -9,5 +9,7 @@ categories:
     - 자체훈련
 ---
 
+**네번째 정보**
+
 - 참가자: https://band.us/band/93484357/post/58
 - 앨범: https://band.us/band/93484357/post/99

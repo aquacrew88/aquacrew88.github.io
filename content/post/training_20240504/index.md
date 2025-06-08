@@ -9,5 +9,7 @@ categories:
     - 자체훈련
 ---
 
+**여덟번째 정모**
+
 - 참가자: https://band.us/band/93484357/post/110
 - 앨범: https://band.us/band/93484357/post/135

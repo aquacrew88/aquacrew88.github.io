@@ -9,6 +9,8 @@ categories:
  - 자체훈련
 ---
 
+**스물아홉번째 정모**
+
 - 참가신청: [BAND LINK](https://band.us/band/93484357/schedule/4%2F93484357%2F582941420%2F19700101)
 - 앨범: [BAND LINK](https://band.us/band/93484357/album/84801167)
 

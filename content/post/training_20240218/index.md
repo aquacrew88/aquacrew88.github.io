@@ -9,6 +9,8 @@ categories:
     - 자체훈련
 ---
 
+**세번째 정모**
+
 1,500m 추발대회 연습
 
 - 참가자: https://band.us/band/93484357/post/57
