@@ -9,4 +9,4 @@ categories:
     - 대회
 ---
 
-- 앨범: https://band.us/band/93484357/album/77047288
+- 앨범/영상: https://band.us/band/93484357/post/225
