@@ -2,7 +2,7 @@
 title: 2025-06-08 코칭 훈련
 date: 2025-06-08
 description: KBS스포츠월드
-image: 2025-06-08-12-50-18.jpeg
+image: 2025-06-09-12.jpeg
 tags:
  - 
 categories:
@@ -14,7 +14,7 @@ categories:
 - 참가신청: [BAND LINK](https://band.us/band/93484357/schedule/4%2F93484357%2F734011840%2F19700101)
 - 앨범: [BAND LINK](https://band.us/band/93484357/album/87060990)
 
-
+![](2025-06-08-12-50-18.jpeg)
 ---
 
 
