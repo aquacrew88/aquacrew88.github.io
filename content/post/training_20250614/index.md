@@ -50,9 +50,6 @@ categories:
 | 4    | 100m   | 5회  | 1:35     | 1:15    | -            |
 | Easy | 100m   | 1회  | -        | -       | -            |
 
-**A팀 명단:**  
-김OO, 김OO, 김OO, 김OO, 김OO, 김OO, 김OO, 김OO,  
-김OO, 김OO, 김OO, 김OO, 김OO, 김OO, 김OO, 김OO
 
 - 2레인 전체 사용, 40분간 B조 노핀으로 참여
 
@@ -78,9 +75,6 @@ categories:
 | Freestyle | 1,000m| 18분 사이클      | -            |
 | Easy      | 100m  | 마무리           | -            |
 
-**B팀 명단:**  
-김OO, 김OO, 김OO, 김OO, 김OO, 김OO, 김OO, 김OO,  
-김OO, 김OO, 김OO, 김OO, 김OO, 김OO, 김OO, 김OO
 
 ---
 
