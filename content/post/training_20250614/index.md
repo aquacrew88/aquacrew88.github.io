@@ -2,7 +2,7 @@
 title: 2025-06-14 자체 훈련
 date: 2025-06-14
 description: KBS스포츠월드
-image: 2025-06-14-20-53-08.jpeg
+# image: 2025-06-14-20-53-08.jpeg
 tags:
  - 
 categories:

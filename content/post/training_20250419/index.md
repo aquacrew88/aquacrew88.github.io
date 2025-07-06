@@ -2,7 +2,7 @@
 title: 2025-04-19 자체 훈련
 date: 2025-04-19
 description: KBS스포츠월드
-image: 2025-04-19-17-24-10.jpeg
+# image: 2025-04-19-17-24-10.jpeg
 tags:
  - 
 categories:

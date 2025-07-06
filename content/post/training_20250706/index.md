@@ -2,7 +2,7 @@
 title: 2025-07-06 코칭 훈련
 date: 2025-07-06
 description: KBS스포츠월드
-image: 2025-07-06-12-03-10.jpeg
+# image: 2025-07-06-12-03-10.jpeg
 tags:
  - 
 categories:

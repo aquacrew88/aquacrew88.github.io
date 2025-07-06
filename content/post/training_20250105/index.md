@@ -2,7 +2,7 @@
 title: 2025-01-05 코칭 훈련
 date: 2025-01-05
 description: KBS스포츠월드
-image: 65739830217.jpeg
+# image: 65739830217.jpeg
 tags:
  - 
 categories:

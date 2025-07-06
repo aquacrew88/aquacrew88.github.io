@@ -2,7 +2,7 @@
 title: 2024-02-18 자체 훈련
 date: 2024-02-18
 description: KBS스포츠월드
-image: 57603625763.jpg
+# image: 57603625763.jpg
 tags:
     - 핀추발
 categories:

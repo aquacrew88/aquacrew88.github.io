@@ -2,7 +2,7 @@
 title: 2024-12-15 코칭 훈련
 date: 2024-12-15
 description: KBS스포츠월드
-image: 2024-12-16-14-50-43.jpeg
+# image: 2024-12-16-14-50-43.jpeg
 tags:
  - 
 categories:

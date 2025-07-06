@@ -2,7 +2,7 @@
 title: 2024-12-29 작전명 스타트 맹꽁이
 date: 2024-12-29
 description: KBS스포츠월드
-image: 65583794186.jpg
+# image: 65583794186.jpg
 tags:
     - 스타트
 categories:
