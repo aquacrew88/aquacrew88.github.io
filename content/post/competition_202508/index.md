@@ -8,6 +8,6 @@ categories:
     - 대회
 ---
 
--   대회사진/경기영상: https://band.us/band/93484357/album/88248796
+-   대회사진/경기영상: [BAND LINK](https://band.us/band/93484357/album/88248796)
 
 ![](poster.PNG)
