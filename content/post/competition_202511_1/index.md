@@ -1,12 +1,14 @@
 ---
-title: '2025년 아쿠아크루 "꿈더하기" 봉사'
-date: 2025-12-13
-# description: 2024년 아쿠아크루 신년회
-image: 2025-12-13-01.JPG
+title: 2025 제 36회 수원특례시장배 수영대회
+date: 2025-11-30
+image: 2025-11-30.JPG
 tags:
-    - 연말연시
+    - 수원
+    - 시장배
 categories:
-    - 이벤트
+    - 대회
 ---
 
--   앨범: https://band.us/band/93484357/album/90564588
+<!-- -   대회사진/경기영상: [BAND LINK](https://band.us/band/93484357/album/89917268) -->
+
+<!-- ![](poster.PNG) -->
