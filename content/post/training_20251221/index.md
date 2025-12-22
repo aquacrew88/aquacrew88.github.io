@@ -2,7 +2,7 @@
 title: '2025-12-21 코칭 훈련'
 date: 2025-12-21
 description: '파워 스프린트 & 스타트 집중'
-image:
+image: 2025-12-21.JPG
 tags:
     -
 categories:
