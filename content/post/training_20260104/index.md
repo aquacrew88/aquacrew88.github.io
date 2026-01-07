@@ -1,7 +1,7 @@
 ---
 title: 2026-01-04 코칭 훈련
 date: 2026-01-04
-description: KBS스포츠월드
+# description: KBS스포츠월드
 image: 20260104.png
 tags:
     -
